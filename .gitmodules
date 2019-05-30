@@ -1,0 +1,3 @@
+[submodule "luci-app-ssr-plus"]
+	path = luci-app-ssr-plus
+	url = https://github.com/SuLingGG/luci-app-ssr-plus.git
